@@ -96,7 +96,7 @@ int main()
     while (choice != 0)
     {
         printf("1. Add Name of your Friend\n");
-        printf("2. Edit Name of your Friend\n");
+        printf("2. Edit Name, day , month and year of your Friend\n");
         printf("3. Search Name of your Friend\n");
         printf("4. Display the birthday List\n");
         printf("5. Find brthday of your Friend in this month\n");
